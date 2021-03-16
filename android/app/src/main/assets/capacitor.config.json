@@ -1,0 +1,6 @@
+{
+  "appId": "com.travelpj",
+  "appName": "TravelPJ",
+  "webDir": "www",
+  "npmClient": "npm"
+}
